@@ -1,7 +1,11 @@
 nav{
-    background-color: black;
+    background-color: #005883;
 }
 footer{
     background-color: rgb(3, 3, 34);
-    color: oldlace;
+    color: #F47920;
+
+.jumbotron{
+    background-color: #F0B429;
 }
+
